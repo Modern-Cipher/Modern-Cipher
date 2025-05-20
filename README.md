@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Modern-Cipher
+- 👋 Hi, I’m Menard Dela Cruz
+- 🌐 I run Modern Cipher — my freelance IT services website
 - 👀 I’m interested in learning new tech and code languages, particularly exploring advancements in areas like serverless architecture, cross-platform mobile development (beyond native Android), and UI/UX design trends.
 - 🌱 I’m currently learning to deepen my understanding of Laravel, React Native, Go, or advanced CSS techniques.
 - 💞️ I’m looking to collaborate on interesting full-stack web projects, innovative Android applications, or even contribute to open-source design systems.
