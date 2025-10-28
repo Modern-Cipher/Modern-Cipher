@@ -156,20 +156,32 @@ I'm also proficient in **Digital Marketing strategies**, including **SEO (Meta T
 <details open>
 <summary><h3>📊 My GitHub Stats</h3></summary>
 <br>
+
 <p align="center">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Modern-Cipher&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="Menard's GitHub Stats"/>
-    <img height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=Modern-Cipher&theme=react" alt="Menard's Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Modern-Cipher&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="Menard's GitHub Stats"/>
 </p>
+
+<br>
+
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Modern-Cipher&layout=compact&langs_count=8&theme=react" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Modern-Cipher&theme=react" alt="Menard's Streak Stats"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Modern-Cipher&layout=compact&langs_count=8&theme=react" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Modern-Cipher&theme=react&hide_border=true&color=007ACC&line=007ACC&point=007ACC&area=true&area_color=007ACC" alt="Menard's Contribution Graph"/>
+</p>
+
 </details>
 
 <details open>
 <summary><h3>🏆 My GitHub Trophies</h3></summary>
 <br>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Modern-Cipher&theme=dracula&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Modern-Cipher&theme=dracula&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
 </details>
 
