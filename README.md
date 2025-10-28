@@ -164,7 +164,7 @@ I'm also proficient in **Digital Marketing strategies**, including **SEO (Meta T
 <br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Modern-Cipher&theme=react" alt="Menard's Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=Modern-Cipher&theme=react" alt="Menard's Streak Stats"/>
 </p>
 
 <p align="center">
