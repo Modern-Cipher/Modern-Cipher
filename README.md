@@ -177,6 +177,6 @@ I'm also proficient in **Digital Marketing strategies**, including **SEO (Meta T
 <summary><h3>🐍 Snake Game - My Contribution Graph</h3></summary>
 <br>
 <p align="center">
-  <img src="https://github.com/Modern-Cipher/Modern-Cipher/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://raw.githubusercontent.com/Modern-Cipher/Modern-Cipher/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
 </details>
