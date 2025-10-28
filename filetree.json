@@ -1,0 +1,58 @@
+{
+  "name": "Modern-Cipher",
+  "path": "c:\\Users\\enduser\\GitHub\\Modern-Cipher",
+  "type": "directory",
+  "children": [
+    {
+      "name": ".github",
+      "type": "folder",
+      "children": [
+        {
+          "name": "workflows",
+          "type": "folder",
+          "children": [
+            {
+              "name": "main.yml",
+              "type": "file"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "assets",
+      "type": "folder",
+      "children": [
+        {
+          "name": "img",
+          "type": "folder",
+          "children": [
+            {
+              "name": "mc-banner1.png",
+              "type": "file"
+            },
+            {
+              "name": "mc.png",
+              "type": "file"
+            },
+            {
+              "name": "mdc.ico",
+              "type": "file"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "README.md",
+      "type": "file"
+    }
+  ],
+  "metadata": {
+    "generated": "2025-10-28T18:33:17.700Z",
+    "generator": "FileTree Pro Extension",
+    "version": "0.2.0",
+    "showIcons": false,
+    "maxDepth": 10
+  }
+}
